@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineer<br>🌱 I’m currently learning Data engineer/Scientist tools and modules frame<br>💬 Ask me about any thing....
+🔭 I’m currently working as Data Engineer role<br>🌱 I’m currently learning Data engineer/Scientist tools and modules frame<br>💬 Ask me about any thing....
 
 
 ## 🌐 Socials:
