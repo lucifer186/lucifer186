@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Data Engineer role<br>🌱 I’m currently learning Data engineer/Scientist tools and modules frame<br> Main work for creaiting and Migrating ETl Piplines.💬 Ask me about any thing....
+🔭 I’m currently working as Data Engineer role<br>🌱 I’m currently learning Data engineer/Scientist tools and modules frame Main work for creaiting and Migrating ETl Piplines. <br>💬 Ask me about any thing....
 
 
 ## 🌐 Socials:
